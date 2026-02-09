@@ -186,4 +186,4 @@ export default defineConfig(({ mode }) => ({
       deny: ["**/.*"],
     },
   },
-});
+}));
