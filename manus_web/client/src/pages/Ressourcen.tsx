@@ -12,7 +12,7 @@ export default function Ressourcen() {
           content: (
             <ContentBlock>
               <WikiBox title="A Cloud Guru" content="Umfassende DevOps-Kurse" />
-              <WikiBox title="Udemy" "https://www.udemy.com/" content="DevOps und Cloud-Kurse" />
+              <WikiBox title="Udemy" href="https://www.udemy.com/" content="DevOps und Cloud-Kurse" />
               <WikiBox title="Pluralsight" content="Professionelle Trainings" />
               <WikiBox title="KodeKloud" content="Kubernetes und Docker Labs" />
             </ContentBlock>
